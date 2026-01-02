@@ -32,17 +32,13 @@ I enjoy turning complex industrial problems into clean, maintainable software th
 
 ## 🛠️ Tech Stack
 
-| 💻 Languages | 🧩 Software Dev |
-|-------------|----------------|
-| Python · JavaScript · C#<br>PHP · C++ · SQL · HTML/CSS · MongoDB | Backend · Frontend · REST APIs<br>Internal Tools · Full-Stack |
+| 💻 Languages | 🧩 Software Dev | ⚙️ DevOps | 🔧 Automation |
+|-------------|----------------|---------------|---------------|
+| Python · JavaScript · C#<br>PHP · C++ · SQL · HTML/CSS · MongoDB | Backend · Frontend · REST APIs<br>Internal Tools · Full-Stack | FastAPI · React · Tailwind<br>Docker · Linux · GitHub | IoT · C++<br>SolidWorks · AutoCAD |
 
 | 🏭 Industrial | 🤖 AI & Data |
 |--------------|-------------|
 | Monitoring · Dashboards<br>Digital Twins · IoT | ML · CV · LLMs<br>PyTorch · Image & Point Clouds |
-
-| ⚙️ DevOps | 🔧 Automation |
-|-----------|---------------|
-| FastAPI · React · Tailwind<br>Docker · Linux · GitHub | IoT · C++<br>SolidWorks · AutoCAD |
 
 ---
 
