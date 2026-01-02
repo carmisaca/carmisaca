@@ -38,7 +38,7 @@ I enjoy turning complex industrial problems into clean, maintainable software th
 
 | 🏭 Industrial | 🤖 AI & Data |
 |--------------|-------------|
-| Monitoring · Dashboards<br>Digital Twins · IoT | ML · CV · LLMs<br>PyTorch · Image & Point Clouds |
+| Monitoring · Dashboards<br>Digital Twins · IoT | ML · Computer Vision · LLMs<br>PyTorch · Image & Point Clouds |
 
 ---
 
