@@ -50,24 +50,19 @@ I enjoy turning complex industrial problems into clean, maintainable software th
 - 🔹 Containerized applications with **Docker** for production deployment  
 - 🔹 Designed responsive UIs using **Tailwind CSS**  
 - 🔹 Worked extensively in **Linux environments** for development and deployment  
-
 ---
 
-## 📌 What I’m Interested In
+## 📌 Interested In
 
 - Industrial software & smart manufacturing  
 - AI-powered automation and monitoring systems  
 - Scalable backend architectures  
 - Digital twins and data-driven optimization  
 - Clean code, performance, and maintainability  
-
 ---
 
-## 📫 Let’s Connect
+## 📫 Contact
 
 - 💼 LinkedIn: [www.linkedin.com/in/cmsc97]
 - 📧 Email: [carlosmscarvalho97@gmail.com]
-
 ---
-
-⭐ *Always open to collaborating on impactful software projects*
